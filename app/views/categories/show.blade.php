@@ -1,0 +1,1 @@
+C:\Users\NKMC\Documents\server\homestead\projects\blog-site\app/views/categories/show.blade.php
